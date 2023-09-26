@@ -1,1 +1,1 @@
-
+This form of CLA ensures that MakerDAO intangible assets are appropriately maintained in the Dai Foundation's repository and can be licensed to other contributors and the broader developer community in line with the open-source and public good principles established by the MakerDAO Alignment Artefacts.
